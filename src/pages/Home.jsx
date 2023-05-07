@@ -20,7 +20,6 @@ const Home = () => {
     <div>
       <Header/>
       <CarouselFadeExample/>
-
       <AboutUs/>
       <Classes/>
       <GymPricing/>

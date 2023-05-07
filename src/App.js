@@ -14,6 +14,7 @@ import LoginMessage from "./components/SuccessMessage/LoginSuccess";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from "./components/Footer/Footer";
 import Trainers from "./pages/trainers/Trainers";
+
 import GymPricing from "./components/Pricing/Pricing";
 import BasicPriceActivity from "./pages/BasicPriceActivity";
 import PremiumPriceActivity from "./pages/PremiumPriceActivity";
